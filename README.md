@@ -7,7 +7,7 @@ Language
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=cc0099)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=ff704d)
-![PYTHON](https://img.shields.io/badge/Pyhthon-000?style=for-the-badge&logo=Python)
+![PYTHON](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=Android)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase&logoColor=ffff)
