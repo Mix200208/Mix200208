@@ -12,10 +12,10 @@ Language
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase&logoColor=ffff)
 
-Links
+My contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Ace1806)
-
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=GMAIL)](mailto:yarmish826@gmail.com)
 
 Stats
 
