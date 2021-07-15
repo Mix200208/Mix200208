@@ -17,6 +17,8 @@ Links
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram)](https://t.me/Ace1806)
 
 
+Stats
+
 [<img src="https://www.codewars.com/users/Mix.py/badges/large">](https://www.codewars.com/users/Mix.py)
 
 
