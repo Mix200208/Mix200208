@@ -1,7 +1,7 @@
 
 About Me
 
-I'm a Junior Android Developer and a Student MSTU "STANKIN".🧑‍💻👨‍🎓
+I'm a Junior Android Developer and a Student MSTU "STANKIN.👨‍🎓
 
 Language
 
